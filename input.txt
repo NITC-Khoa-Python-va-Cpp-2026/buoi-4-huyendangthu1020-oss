@@ -8,6 +8,4 @@ Using with open is safer than open().
 We can read lines individually or all at once.
 We can write single strings or multiple lines.
 Good file handling is important in programming.
-
-Đặng Thu Huyền
 Đặng Thu Huyền
